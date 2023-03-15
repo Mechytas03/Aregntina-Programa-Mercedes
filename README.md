@@ -41,3 +41,8 @@ js var no por por el scope
 js jason modo como objeto
 deberia hacer para verlas: 
 trabajar .led dentro de la llave para mostrar en modo jason
+console.lo({array})
+
+
+
+
