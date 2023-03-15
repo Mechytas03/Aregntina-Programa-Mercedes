@@ -37,3 +37,7 @@ Tools / Options / Editor / CodeTemplates / New :
 -Luego escribo el código a utilizar
 
 js var no por por el scope
+
+js jason modo como objeto
+deberia hacer para verlas: 
+trabajar .led dentro de la llave para mostrar en modo jason
