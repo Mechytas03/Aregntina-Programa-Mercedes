@@ -62,6 +62,11 @@ recorrerlo forEach y lo muesta por conosla
 en html document.write(COMIDITA); uno pegado al lado del otro, estan sin formato solo lo envia
 crear la li desde js y mostrarla e tareas
 
-
+PUSH PARA AGREGAR UNO MAS
 }
 PRACTICAR MASSSSSSSSSSSSSSSSSS
+COMIDAS.PUSH("TENGRO HAMBRE");
+
+CONSOLE.LOG(COMIDAS);
+PUSH LO AGREGA AL FINAL
+LEER METODOS
