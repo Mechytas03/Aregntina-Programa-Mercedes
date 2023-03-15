@@ -35,3 +35,5 @@ Para crear propios ATAJOS
 Tools / Options / Editor / CodeTemplates / New :
 -Primero voy a poner la abreviatura para llamar a mi “código”
 -Luego escribo el código a utilizar
+
+js var no por por el scope
