@@ -44,5 +44,24 @@ trabajar .led dentro de la llave para mostrar en modo jason
 console.lo({array})
 
 
+let comidas= ["papas","huevo","chori"];
+console.log({comidas});
+si quiero agregar o quitar?
+push add
+metodos
+en html lo tenes que recoorer mandar a html 
+general un boton para agregar
+asignar propiedades 
+console.log({comidita, indice, array}); bucle por for no mas, ahora es for each
+comidas.forEach(comidita no usas el mismo parametro,indice, array)esta mal porq depende de una funcion caal back
+agregagar=>{
+sentencia
+console.log({comidita, indice,array});
+esta como objeto, trae mas informacion. array de donde viene, indice el numero, por cada uno y el formato lo podemos usar despues 
+recorrerlo forEach y lo muesta por conosla
+en html document.write(COMIDITA); uno pegado al lado del otro, estan sin formato solo lo envia
+crear la li desde js y mostrarla e tareas
 
+
+}
 
