@@ -73,3 +73,4 @@ LEER METODOS
 let borrado = comidas.pop("pastas");
 console.log(borrado);
 pop borra el que corresponde
+The pop() method removes the last element from an array and returns that element. This method changes the length of the array.
