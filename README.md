@@ -70,3 +70,6 @@ COMIDAS.PUSH("TENGRO HAMBRE");
 CONSOLE.LOG(COMIDAS);
 PUSH LO AGREGA AL FINAL
 LEER METODOS
+let borrado = comidas.pop("pastas");
+console.log(borrado);
+pop borra el que corresponde
